@@ -1,0 +1,1 @@
+print("Muhammadqodir jamoda ish boshladi")
